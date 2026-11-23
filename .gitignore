@@ -1,0 +1,10 @@
+data/
+__pycache__/
+node_modules/
+.vercel
+.env
+.env.local
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
